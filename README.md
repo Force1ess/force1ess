@@ -5,8 +5,6 @@
 |  _| (_) | | | (_|  __/ |  __/\__ \__ \
 |_|  \___/|_|  \___\___|_|\___||___/___/
 
-* Research Domain: DNN Reliability
-* Skill: Web Front, Pytorch
 ```
 
 
