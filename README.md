@@ -9,9 +9,6 @@
 * Skill: Web Front, Pytorch
 ```
 
-## Hi, what's up 👋
-
-- ⚡I'm recently working on [TorchEI](https://github.com/TorchEI/TorchEI/)
 
 ### Statistics
 
