@@ -6,7 +6,8 @@
 |_|  \___/|_|  \___\___|_|\___||___/___/
 
 ```
-Open for job opportunities, mail: wszh712811<at>gmail.com
+
+Just someone tired of being positive to ...
 
 ### Statistics
 
