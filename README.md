@@ -15,7 +15,7 @@
 
 他的研究方向是大模型智能体，也有预训练/对话模型等多方面的经验，但他不喜欢把自己约束在某个特定的角落
 
-他是中国科学院大学2026年的硕士毕业生，正在job market中，对任何工作机会都心怀感激：wszh712811@gmail.com, [简历-12/24/2025](https://github.com/user-attachments/files/24323113/9.pdf)
+他是中国科学院大学2026年的硕士毕业生，正在job market中，对任何工作机会都心怀感激：wszh712811@gmail.com, [简历-12/24/2025](https://github.com/user-attachments/files/24323158/default.pdf)
 
 
 ---
