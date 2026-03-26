@@ -15,7 +15,7 @@
 
 他的研究方向是大模型智能体，也有预训练/对话模型等多方面的经验，但他不喜欢把自己约束在某个特定的角落
 
-他是中国科学院大学2026年的硕士毕业生，正在job market中，对任何工作机会都心怀感激：wszh712811@gmail.com, [简历-12/24/2025](https://github.com/user-attachments/files/24323158/default.pdf)
+他是中国科学院大学2026年的硕士毕业生，对任何机会都心怀感激：wszh712811@gmail.com, [简历-12/24/2025](https://github.com/user-attachments/files/24323158/default.pdf)
 
 
 ---
@@ -29,4 +29,4 @@ He loves coding, though unfortunately he *only* loves coding—but he's working 
 His research focuses on LLM Agents, with experience spanning pretraining, dialogue systems, and beyond—he doesn't like to confine himself to any particular corner.
 
 
-He is a Master's graduate (Class of 2026) from the University of Chinese Academy of Sciences, currently on the job market, and grateful for any opportunity: wszh712811@gmail.com, [resume](https://github.com/user-attachments/files/23850728/8.pdf)
+He is a Master's graduate (Class of 2026) from the University of Chinese Academy of Sciences, and grateful for any opportunity: wszh712811@gmail.com, [resume](https://github.com/user-attachments/files/23850728/8.pdf)
