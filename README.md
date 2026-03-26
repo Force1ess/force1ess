@@ -30,8 +30,3 @@ His research focuses on LLM Agents, with experience spanning pretraining, dialog
 
 
 He is a Master's graduate (Class of 2026) from the University of Chinese Academy of Sciences, currently on the job market, and grateful for any opportunity: wszh712811@gmail.com, [resume](https://github.com/user-attachments/files/23850728/8.pdf)
-
-### Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Force1ess)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Force1ess&hide=ipynb,html,c&layout=compact)
