@@ -13,9 +13,9 @@
 
 他喜欢写代码，可惜只喜欢写代码——不过他已经在努力改变了
 
-他的研究方向是大模型智能体，也有预训练/对话模型等多方面的经验，但他不喜欢把自己约束在某个特定的角落
+他目前是商汤研究院研究员，负责 SenseNova 基模的 Agentic Coding，聚焦前端开发，并通过后训练推进 Artifact 生成与长程前端项目执行能力
 
-他是中国科学院大学2026年的硕士毕业生，对任何机会都心怀感激：wszh712811@gmail.com, [简历-10/5/2026](https://github.com/user-attachments/files/27997105/-.pdf)
+他于2026年6月获得中国科学院大学软件工程硕士学位，对任何机会都心怀感激：wszh712811@gmail.com
 
 
 ---
@@ -26,7 +26,6 @@ He is unmarried, but wants to marry his girlfriend.
 
 He loves coding, though unfortunately he *only* loves coding—but he's working on that.
 
-His research focuses on LLM Agents, with experience spanning pretraining, dialogue systems, and beyond—he doesn't like to confine himself to any particular corner.
+He is a researcher at SenseTime Research, responsible for agentic coding for the SenseNova foundation model, with a focus on frontend development. His work aims to push the frontier of artifact generation and long-horizon frontend project execution through post-training.
 
-
-He is a Master's graduate (Class of 2026) from the University of Chinese Academy of Sciences, and grateful for any opportunity: wszh712811@gmail.com, [resume](https://github.com/user-attachments/files/23850728/8.pdf)
+He received his M.S. in Software Engineering from the University of Chinese Academy of Sciences in June 2026, and is grateful for any opportunity: wszh712811@gmail.com
