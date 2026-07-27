@@ -15,7 +15,7 @@
 
 他目前是商汤研究院研究员，负责 SenseNova 基模的 Agentic Coding，聚焦前端开发，并通过后训练推进 Artifact 生成与长程前端项目执行能力
 
-他于2026年6月获得中国科学院大学软件工程硕士学位，对任何机会都心怀感激：wszh712811@gmail.com
+他于2026年6月获得了中国科学院大学软件工程硕士学位
 
 
 ---
@@ -28,4 +28,4 @@ He loves coding, though unfortunately he *only* loves coding—but he's working 
 
 He is a researcher at SenseTime Research, responsible for agentic coding for the SenseNova foundation model, with a focus on frontend development. His work aims to push the frontier of artifact generation and long-horizon frontend project execution through post-training.
 
-He received his M.S. in Software Engineering from the University of Chinese Academy of Sciences in June 2026, and is grateful for any opportunity: wszh712811@gmail.com
+He received his M.S. in Software Engineering from the University of Chinese Academy of Sciences in June 2026
